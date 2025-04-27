@@ -1,2 +1,1 @@
-In this games there might be bugs 
-if you can fix it, you can 
+In this games there might be bugs. If you can fix it, you are open to give pull request
